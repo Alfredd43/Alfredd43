@@ -5,11 +5,6 @@
 🌱 I’m currently learning LLMs & Generative AI  
 
 ## 🌐 Socials:
-<p align="left">
-<a href="https://linkedin.com/in/alfred-john-b850a1275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanksha job" height="30" width="40" /></a>
-<a href="mailto:alfredjohn4763@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akanksha job" height="30" width="40" /></a>
-<a href="https://instagram.com/alfredd43_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akankshaa117" height="30" width="40" /></a>
-</p>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/alfredd43_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfred-john-b850a1275)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfredjohn4763@gmail.com)  
