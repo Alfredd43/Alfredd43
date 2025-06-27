@@ -2,7 +2,7 @@
 # 💫 About Me:
 
 🔭 I’m currently working on building practical AI and Data Science solutions while expanding my technical skillset through hands-on projects.  
-🌱 I’m currently learning LLMs & Generative AI  
+🌱 I’m currently learning LLMs & AI Automation Modeling
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/alfredd43_)
@@ -13,7 +13,6 @@
 
 ### 🧠 Languages & Core Tools  
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
