@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋 I'm Alfred John</h1>
+
 # 💫 About Me:
 
 🔭 I’m currently working on building practical AI and Data Science solutions while expanding my technical skillset through hands-on projects.  
